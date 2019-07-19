@@ -8,7 +8,7 @@ const apiProxy = httpProxy.createProxyServer();
 const port = 3005;
 
 const gallery = 'http://localhost:3000';
-const reservation = 'http://localhost:3001';
+const reservation = 'http://52.14.134.29:3001';
 const popular = 'http://localhost:3002';
 const header = 'http://localhost:3003';
 
